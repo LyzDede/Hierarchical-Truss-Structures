@@ -1,5 +1,5 @@
 # Hierarchical-Truss-Structures
-1.Download all files in each directory, and add all folders to matlab path.
+1.Download ZIP, and add all folders to matlab path.
 
 2.Run optTest.m. (It may take a long time to start parallel computing at the first time.)
 
