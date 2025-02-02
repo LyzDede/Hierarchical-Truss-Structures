@@ -1,6 +1,6 @@
 E=100000;            % Young's Modulus
-w=8;                 % topology parameter for Modelβ
-minA=0.000001;       % minium bar cross sectional area
+w=8;                 % topology parameter for Model_Beta
+minA=0.000001;       % minimum bar cross sectional area
 
 
 L=1000;                  % total truss length
@@ -20,5 +20,5 @@ Ta=Tb2Ta(Tb,E,minA);                            % trusses gained by Model_Alpha 
 
 T=[{Ta1} Ta];                                   % optimal trusses
 
-%%%% to visualize the rsults, please run drawTest.m
+%%%% to visualize the results, please run drawTest.m
 
